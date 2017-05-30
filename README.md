@@ -1,4 +1,2 @@
-# hello_world
-Baby's first repository
-
-Just a test as I adjust to github, please ignore.
+A node to be used in a linked list.
+Contains data (object) and reference to next in list.
